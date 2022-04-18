@@ -2344,14 +2344,12 @@
     <bcf:datasource type="file" datatype="bibtex">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Occidental2022Comps</bcf:citekey>
-    <bcf:citekey order="2">Occidental2022Comps</bcf:citekey>
-    <bcf:citekey order="3">Overleaf2021LearnLaTeXIn</bcf:citekey>
-    <bcf:citekey order="4">Overleaf2021LearnLaTeXIn</bcf:citekey>
-    <bcf:citekey order="5">WikiBook2022LaTeX</bcf:citekey>
-    <bcf:citekey order="6">WikiBook2022LaTeX</bcf:citekey>
-    <bcf:citekey order="7">Lambert2021MakefileTutorial</bcf:citekey>
-    <bcf:citekey order="8">Lambert2021MakefileTutorial</bcf:citekey>
+    <bcf:citekey order="1">Overleaf2021LearnLaTeXIn</bcf:citekey>
+    <bcf:citekey order="2">Overleaf2021LearnLaTeXIn</bcf:citekey>
+    <bcf:citekey order="3">WikiBook2022LaTeX</bcf:citekey>
+    <bcf:citekey order="4">WikiBook2022LaTeX</bcf:citekey>
+    <bcf:citekey order="5">Lambert2021MakefileTutorial</bcf:citekey>
+    <bcf:citekey order="6">Lambert2021MakefileTutorial</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
