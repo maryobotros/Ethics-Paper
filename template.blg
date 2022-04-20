@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'template.blg'
-[107] biber-darwin:340> INFO - === Sun Apr 17, 2022, 12:29:41
-[129] Biber.pm:415> INFO - Reading 'template.bcf'
-[274] Biber.pm:952> INFO - Found 3 citekeys in bib section 0
-[300] Biber.pm:4340> INFO - Processing section 0
-[321] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
-[322] bibtex.pm:1689> INFO - LaTeX decoding ...
-[328] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
-[410] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[410] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[410] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[410] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[425] bbl.pm:654> INFO - Writing 'template.bbl' with encoding 'UTF-8'
-[427] bbl.pm:757> INFO - Output to template.bbl
+[1] Config.pm:314> INFO - Logfile is 'template.blg'
+[200] biber-darwin:340> INFO - === Wed Apr 20, 2022, 01:09:28
+[232] Biber.pm:415> INFO - Reading 'template.bcf'
+[400] Biber.pm:952> INFO - Found 2 citekeys in bib section 0
+[424] Biber.pm:4340> INFO - Processing section 0
+[449] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
+[455] bibtex.pm:1689> INFO - LaTeX decoding ...
+[472] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[672] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[673] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[673] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[673] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[685] bbl.pm:654> INFO - Writing 'template.bbl' with encoding 'UTF-8'
+[686] bbl.pm:757> INFO - Output to template.bbl

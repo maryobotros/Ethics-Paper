@@ -19,33 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{Lambert2021MakefileTutorial}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=54e74b83c7f8ba4f06f56ef8e9c90792}{%
-           family={Lambert},
-           familyi={L\bibinitperiod},
-           given={Chase},
-           giveni={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{54e74b83c7f8ba4f06f56ef8e9c90792}
-      \strng{fullhash}{54e74b83c7f8ba4f06f56ef8e9c90792}
-      \strng{bibnamehash}{54e74b83c7f8ba4f06f56ef8e9c90792}
-      \strng{authorbibnamehash}{54e74b83c7f8ba4f06f56ef8e9c90792}
-      \strng{authornamehash}{54e74b83c7f8ba4f06f56ef8e9c90792}
-      \strng{authorfullhash}{54e74b83c7f8ba4f06f56ef8e9c90792}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Makefile Tutorial}
-      \field{year}{2021}
-      \verb{urlraw}
-      \verb https://makefiletutorial.com/
-      \endverb
-      \verb{url}
-      \verb https://makefiletutorial.com/
-      \endverb
-    \endentry
     \entry{Overleaf2021LearnLaTeXIn}{misc}{}
       \name{author}{1}{}{%
         {{hash=80d685e90fa23d7996a66e45aa2d24ad}{%
