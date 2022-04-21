@@ -2345,7 +2345,27 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">AutonomousAccidents</bcf:citekey>
-    <bcf:citekey order="2">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="2">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="3">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="4">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="5">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="6">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="7">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="8">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="9">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="10">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="11">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="12">AutonomousAccidents</bcf:citekey>
+    <bcf:citekey order="13">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="14">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="15">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="16">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="17">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="18">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="19">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="20">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="21">EthicalOverview</bcf:citekey>
+    <bcf:citekey order="22">EthicalOverview</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
