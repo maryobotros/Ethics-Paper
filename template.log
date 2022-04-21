@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.1)  20 APR 2022 01:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.1)  20 APR 2022 14:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -565,35 +565,36 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 24.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+) [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ] [2]
-Underfull \vbox (badness 1496) has occurred while \output is active []
 
- [3] (/Users/maryobotros/Desktop/Ethics-Paper/template.aux)
+Package biblatex Warning: No driver for entry type 'msic'.
+(biblatex)                Using fallback driver on input line 64.
+
+[3] [4
+
+] (/Users/maryobotros/Desktop/Ethics-Paper/template.aux)
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 2CDE332CF2FC4396BDF879DBB77AE73A;605.
+(rerunfilecheck)             Checksum: 1A33686934ECE4FFE72171037431D751;574.
 Package logreq Info: Writing requests to 'template.run.xml'.
 \openout1 = `template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17965 strings out of 478994
+ 17967 strings out of 478994
  299581 string characters out of 5858185
- 1016780 words of memory out of 5000000
- 35220 multiletter control sequences out of 15000+600000
+ 1016728 words of memory out of 5000000
+ 35221 multiletter control sequences out of 15000+600000
  421273 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,7n,89p,2613b,1288s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,7n,89p,2665b,1286s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/maryobotros/Desktop/Ethics-Paper/template.pdf (3 pages, 66789 bytes).
+Output written on /Users/maryobotros/Desktop/Ethics-Paper/template.pdf (4 pages, 68978 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

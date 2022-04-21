@@ -19,54 +19,56 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{Overleaf2021LearnLaTeXIn}{misc}{}
+    \entry{AutonomousAccidents}{msic}{}
       \name{author}{1}{}{%
-        {{hash=80d685e90fa23d7996a66e45aa2d24ad}{%
-           family={Overleaf},
-           familyi={O\bibinitperiod}}}%
+        {{hash=80854698a28a71a4c86b747b48d679c3}{%
+           family={Ampe},
+           familyi={A\bibinitperiod},
+           given={Teagan},
+           giveni={T\bibinitperiod}}}%
       }
-      \strng{namehash}{80d685e90fa23d7996a66e45aa2d24ad}
-      \strng{fullhash}{80d685e90fa23d7996a66e45aa2d24ad}
-      \strng{bibnamehash}{80d685e90fa23d7996a66e45aa2d24ad}
-      \strng{authorbibnamehash}{80d685e90fa23d7996a66e45aa2d24ad}
-      \strng{authornamehash}{80d685e90fa23d7996a66e45aa2d24ad}
-      \strng{authorfullhash}{80d685e90fa23d7996a66e45aa2d24ad}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \strng{namehash}{80854698a28a71a4c86b747b48d679c3}
+      \strng{fullhash}{80854698a28a71a4c86b747b48d679c3}
+      \strng{bibnamehash}{80854698a28a71a4c86b747b48d679c3}
+      \strng{authorbibnamehash}{80854698a28a71a4c86b747b48d679c3}
+      \strng{authornamehash}{80854698a28a71a4c86b747b48d679c3}
+      \strng{authorfullhash}{80854698a28a71a4c86b747b48d679c3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Learn LaTeX in 30 minutes}
-      \field{year}{2021}
+      \field{title}{Autonomous Accidents: The Ethics of Self-Driving Car Crashe}
+      \field{year}{2020}
       \verb{urlraw}
-      \verb https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+      \verb https://vce.usc.edu/volume-4-issue-2/autonomous-accidents-the-ethics-of-self-driving-car-crashes/
       \endverb
       \verb{url}
-      \verb https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+      \verb https://vce.usc.edu/volume-4-issue-2/autonomous-accidents-the-ethics-of-self-driving-car-crashes/
       \endverb
     \endentry
-    \entry{WikiBook2022LaTeX}{misc}{}
+    \entry{EthicalOverview}{misc}{}
       \name{author}{1}{}{%
-        {{hash=61bb10c9f66e6440098a86bfb1a001df}{%
-           family={WikiBook},
-           familyi={W\bibinitperiod}}}%
+        {{hash=844f663221ec5e8317e9be4a83a7d3b6}{%
+           family={Hansson},
+           familyi={H\bibinitperiod}}}%
       }
-      \strng{namehash}{61bb10c9f66e6440098a86bfb1a001df}
-      \strng{fullhash}{61bb10c9f66e6440098a86bfb1a001df}
-      \strng{bibnamehash}{61bb10c9f66e6440098a86bfb1a001df}
-      \strng{authorbibnamehash}{61bb10c9f66e6440098a86bfb1a001df}
-      \strng{authornamehash}{61bb10c9f66e6440098a86bfb1a001df}
-      \strng{authorfullhash}{61bb10c9f66e6440098a86bfb1a001df}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \strng{namehash}{844f663221ec5e8317e9be4a83a7d3b6}
+      \strng{fullhash}{844f663221ec5e8317e9be4a83a7d3b6}
+      \strng{bibnamehash}{844f663221ec5e8317e9be4a83a7d3b6}
+      \strng{authorbibnamehash}{844f663221ec5e8317e9be4a83a7d3b6}
+      \strng{authornamehash}{844f663221ec5e8317e9be4a83a7d3b6}
+      \strng{authorfullhash}{844f663221ec5e8317e9be4a83a7d3b6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{LaTeX WikiBook}
-      \field{year}{2022}
+      \field{title}{Self-Driving Vehicles—an Ethical Overview.}
+      \field{year}{2021}
       \verb{urlraw}
-      \verb https://en.wikibooks.org/wiki/LaTeX
+      \verb https://doi.org/10.1007/s13347-021-00464-5
       \endverb
       \verb{url}
-      \verb https://en.wikibooks.org/wiki/LaTeX
+      \verb https://doi.org/10.1007/s13347-021-00464-5
       \endverb
     \endentry
   \enddatalist
