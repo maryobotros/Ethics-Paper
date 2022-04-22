@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.1)  21 APR 2022 17:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.1)  22 APR 2022 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -569,12 +569,12 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 
 
 ]
-Underfull \vbox (badness 5050) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2] [3]
 
 Package biblatex Warning: No driver for entry type 'msic'.
-(biblatex)                Using fallback driver on input line 64.
+(biblatex)                Using fallback driver on input line 63.
 
 [4
 
@@ -594,7 +594,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  86i,7n,89p,2722b,1286s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/maryobotros/Desktop/Ethics-Paper/template.pdf (4 pages, 71146 bytes).
+Output written on /Users/maryobotros/Desktop/Ethics-Paper/template.pdf (4 pages, 71643 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
