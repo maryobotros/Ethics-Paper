@@ -71,6 +71,18 @@
       \verb https://doi.org/10.1007/s13347-021-00464-5
       \endverb
     \endentry
+    \entry{TrolleyProblem}{misc}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{title}{Next Stop: ‘Trolley Problem’}
+      \verb{urlraw}
+      \verb https://www.merriam-webster.com/words-at-play/trolley-problem-moral-philosophy-ethics#:~:text=The%20trolley%20problem%20is%20a,to%20kill%20just%201%20person.
+      \endverb
+      \verb{url}
+      \verb https://www.merriam-webster.com/words-at-play/trolley-problem-moral-philosophy-ethics#:~:text=The%20trolley%20problem%20is%20a,to%20kill%20just%201%20person.
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
